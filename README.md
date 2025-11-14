@@ -14,57 +14,13 @@ LightML/
 │
 ├── lightml/
 │   ├── __init__.py
-│   │
 │   ├── activations/
-│   │   ├── __init__.py
-│   │   ├── relu.py
-│   │   ├── leaky_relu.py
-│   │   ├── tanh.py
-│   │   ├── sigmoid.py
-│   │   ├── softmax.py
-│   │   ├── gelu.py
-│   │
 │   ├── optimizers/
-│   │   ├── __init__.py
-│   │   ├── gradient_descent.py
-│   │   ├── adam.py
-│   │   ├── adamw.py
-│   │   ├── rmsprop.py
-│   │   ├── adagrad.py
-│   │   ├── adadelta.py
-│   │   ├── nag.py
-│   │   ├── nadam.py
-│   │
 │   ├── metrics/
-│   │   ├── __init__.py
-│   │   ├── f1.py
-│   │   ├── r2.py
-│   │   └── loss.py
-│   │
 │   ├── distance/
-│   │   ├── __init__.py
-│   │   ├── euclidean.py
-│   │   ├── manhattan.py
-│   │   └── cosine.py
-│   │
 │   ├── probability/
-│   │   ├── __init__.py
-│   │   ├── bernoulli.py
-│   │   ├── binomial.py
-│   │   └── geometric.py
-│   │
 │   ├── statistics/
-│   │   ├── __init__.py
-│   │   ├── mean_median_mode.py
-│   │   ├── variance_std.py
-│   │   ├── percentiles.py
-│   │   ├── normalization.py
-│   │   └── entropy.py
-│   │
 │   └── classifiers/
-│       ├── __init__.py
-│       └── majority.py
-│
 ├── setup.py
 ├── setup.cfg
 ├── requirements.txt
@@ -95,9 +51,7 @@ LightML/
 
 ### **📊 Metrics**
 - F1 Score  
-- R² Score  
-- Cross-entropy Loss  
-- MSE / MAE  
+- R² Score    
 
 ### **📏 Distance Measures**
 - Euclidean  
