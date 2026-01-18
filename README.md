@@ -4,7 +4,7 @@
 LightML is a **from-scratch Machine Learning library** built using Python and NumPy.
 It includes core components used in ML: activation functions, optimizers, probability distributions, metrics, distances, and simple classifiers.  
 This project is part of a continuous effort to build an educational, transparent ML toolkit without relying on high‑level frameworks.
-Also includes examples (pytorch based) of training, evaluations of algorithms and their applications.
+Also includes examples (pytorch based) of training, evaluations of algorithms and their applications. Including classification, detection, generation etc.
 ---
 
 ## 📦 Project Structure
